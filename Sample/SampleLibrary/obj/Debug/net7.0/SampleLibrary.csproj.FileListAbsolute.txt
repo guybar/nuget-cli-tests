@@ -1,0 +1,12 @@
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/bin/Debug/net7.0/SampleLibrary.deps.json
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/bin/Debug/net7.0/SampleLibrary.dll
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/bin/Debug/net7.0/SampleLibrary.pdb
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/SampleLibrary.csproj.AssemblyReference.cache
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/SampleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/SampleLibrary.AssemblyInfoInputs.cache
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/SampleLibrary.AssemblyInfo.cs
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/SampleLibrary.csproj.CoreCompileInputs.cache
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/SampleLibrary.dll
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/refint/SampleLibrary.dll
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/SampleLibrary.pdb
+/Users/guilherme.ferreira/Documents/GitHub/xray-cli-tests/Sample/SampleLibrary/obj/Debug/net7.0/ref/SampleLibrary.dll
